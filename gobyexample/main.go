@@ -14,5 +14,15 @@ func main() {
 
 	// closure()
 
-	recursive()
+	// recursive()
+
+	// stringRune()
+
+	// structFunc()
+
+	// methods()
+
+	// interfaces()
+
+	enums()
 }
