@@ -21,5 +21,17 @@ func main() {
 
 	// rangeChan()
 
-	timerFn()
+	// timerFn()
+
+	// tickerFn()
+
+	// workerPoolFn()
+
+	// waitFn()
+
+	// ratelimitingFn()
+
+	// burstLimiterFn()
+
+	atomicCounterFn()
 }

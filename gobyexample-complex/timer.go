@@ -11,7 +11,7 @@ func timerFn() {
 	<-timer.C // blocks on timer channel
 	fmt.Println("Timer fired!")
 
-	// you can stop timer but not in time.SSleep
+	// you can stop timer but not in time.Sleep
 	timer2 := time.NewTimer(2 * time.Second)
 	// done := make(chan bool)
 	go func() {
