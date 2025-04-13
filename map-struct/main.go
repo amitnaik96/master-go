@@ -29,7 +29,7 @@ func main() {
 		fmt.Printf("Name %v, noOfTickets: %v", booking["name"], booking["tickets"])
 	}
 
-	// struct -> mixed data type
+	// struct (custom type) -> mixed data type
 	type UserData struct {
 		name string
 		age  int

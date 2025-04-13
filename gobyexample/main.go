@@ -24,5 +24,15 @@ func main() {
 
 	// interfaces()
 
-	enums()
+	// enums()
+
+	// structEmbed()
+
+	// generics()
+
+	// rangeOverIterators()
+
+	// errorsFunc()
+
+	customError()
 }
