@@ -33,5 +33,23 @@ func main() {
 
 	// burstLimiterFn()
 
-	atomicCounterFn()
+	// atomicCounterFn()
+
+	// mutexFn()
+
+	// statefulGoroutine()
+
+	// sortingFn()
+
+	// panicFn()
+
+	// deferFn()
+
+	// recoverFn()
+
+	// stringFn()
+
+	// templateFn()
+
+	jsonFn()
 }
