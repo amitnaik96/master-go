@@ -51,5 +51,27 @@ func main() {
 
 	// templateFn()
 
-	jsonFn()
+	// jsonFn()
+
+	// randomInt()
+
+	// parseNumber()
+
+	// parseUrl()
+
+	// shaFn()
+
+	// base64Fn()
+
+	// readFile()
+
+	// writeFileFn()
+
+	// envFn()
+
+	// loggerFn()
+
+	// httpClientFn()
+
+	httpServerFn()
 }
